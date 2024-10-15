@@ -1,7 +1,7 @@
 Hello World! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) [I'm Supak Suksamran](http://klinmeksuk.com/#about) and nice to meet you here on my Github Profile, Mr. Visitor.  
 =======================================================================================================================================
 
-Experience as System Engineer (YAML,SQL,PostgreSQL,Python,VMware)
+I Experience as a System Engineer (YAML,SQL,PostgreSQL,Python,VMware)
 -----------------------------------------------------------------
 
 I've been lerning about developing and programming for total of 6 Years and Currently looking for Position of Software Engineer or Developer.
@@ -44,7 +44,7 @@ I've been lerning about developing and programming for total of 6 Years and Curr
   - <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a> Python
   - <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a> NodeJS
 - **Frameworks**:
-  - Express (สำหรับ NodeJS)
+  - Express (For NodeJS)
 
 #### Database
 - **SQL**:
